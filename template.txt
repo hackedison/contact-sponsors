@@ -1,0 +1,22 @@
+Hello %SPONSOR_NAME%,<br><br> 
+
+I am Tarun Boddupalli from the HackEdison Team at Edison High School, New Jersey. My school’s
+Science National Honors Society is hosting a hackathon on Saturday, November 18th.<br><br> 
+
+In case you are not aware, a hackathon is a coding competition in which programmers create various projects.
+One of the most unique aspects of a hackathon is everything is free. Over a weekend, students
+are exposed to an insightful experience in which they expand their knowledge of computer
+programming and test their skills in a friendly coding competition. To keep this event free, we
+require donations from willing sponsors who wish to support youth programs.<br><br>
+
+We will be following up with more information about the specifics of the event and ways in
+which you can also benefit from contributing. I look forward to hearing from you and hope that
+you are interested in supporting our hackathon.<br><br>
+
+Thank you,<br>
+HackEdison Team<br><br>
+
+Edison High School<br>
+<a href="hackedison.com">HackEdison.com</a><br>
+Contact us at hackedison@sponsor.com<br><br>
+<img src="http://hackedison.com/res/img/logo.png" width="150" height="150"/>
